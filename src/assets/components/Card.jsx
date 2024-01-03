@@ -1,6 +1,6 @@
 function Card({ foto, titulo, texto, repositorio }) {
     return (
-        <div class="max-w-sm bg-white border rounded-lg shadow border-black">
+        <div class="scale-100 max-w-sm bg-white border rounded-lg shadow border-black hover:scale-110 transition delay-0 duration-300 ease-in-out">
             <img class="rounded-t-lg" src={foto} alt="" />
             <div class="p-5">
                 <a href="#">
