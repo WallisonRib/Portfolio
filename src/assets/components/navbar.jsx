@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
+import { Link } from 'react-scroll';
 
 const NavBar = () => {
   const [nav, setNav] = useState(false);
-  
+
   const handleNav = () => {
     setNav(!nav);
   };
@@ -13,10 +14,13 @@ const NavBar = () => {
       <a href="/"><h1 className='w-full text-3xl font-bold text-white '>Rib.</h1></a>
       <ul className='hidden md:flex'>
         <li>
-          <a href="#Home" className='p-4'>Home</a>
-          <a href="#aboutme" className='p-4'>Sobre mim</a>
-          <a href="#habilidades" className='p-4'>Habilidades</a>
-          <a href="#projetos" className='p-4'>Projetos</a>
+          <Link to="Home" spy={true} smooth={true} offset={0} duration={500} className='p-4'>Home</Link>
+
+          <Link to="aboutme" spy={true} smooth={true} offset={-90} duration={500} className='p-4'>Sobre mim</Link>
+
+          <Link to="habilidades" spy={true} smooth={true} offset={-40} duration={500} className='p-4'>Habilidades</Link>
+
+          <Link to="projetos" spy={true} smooth={true} offset={50} duration={500} className='p-4'>Projetos</Link>
 
         </li>
       </ul>
