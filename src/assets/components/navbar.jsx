@@ -27,7 +27,7 @@ const NavBar = () => {
       <div onClick={handleNav} className='block md:hidden'>
         <AiOutlineMenu size={20} />
       </div>
-      <ul className={nav ? 'z-1 fixed top-0 right-0 w-[60%] h-full border-l border-r-gray-900 bg-[#000300] ease-in-out duration-500' : 'ease-in-out duration-500 fixed top-0 right-[-100%] h-full'}>
+      <ul className={nav ? 'z-[2] fixed top-0 right-0 w-[60%] h-full border-l border-r-gray-900 bg-[#000300] ease-in-out duration-500' : 'ease-in-out duration-500 fixed top-0 right-[-100%] h-full'}>
         <div className='grid justify-items-stretch items-center h-24 px-4'>
           <div onClick={handleNav} className='justify-self-end block md:hidden'>
             <AiOutlineClose size={20} />
