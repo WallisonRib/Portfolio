@@ -1,15 +1,17 @@
-#Portifólio
-##Atualizado em 23/05/2024
+# Portifólio
+## Atualizado em 23/05/2024
 
-##Tecnologias
+## Tecnologias
 - Javascript
 - React
 - Tailwind
 - Flowbite
 - Flowbite
 
-##Visual
-    Visual intencionalmente baseado no minimalismo, focando na experiência do usuário, visando a fácil localização e leitura dinamica dos dados dispostos.
+## Visual
+<p>
+Visual intencionalmente baseado no minimalismo, focando na experiência do usuário, visando a fácil localização e leitura dinamica dos dados dispostos.
+</p>
 
 
 
