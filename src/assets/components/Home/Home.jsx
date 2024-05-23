@@ -1,5 +1,5 @@
 import foto from "../images/Rib.jpg"
-import Links from "./Links";
+import Links from "../../Links";
 
 function Home() {
     return (
