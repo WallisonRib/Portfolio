@@ -10,6 +10,14 @@ body {
     animation: float 3s ease-in-out infinite;
 }
 
+
+#particles canvas {
+	z-index: -1;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+  }
+
 @keyframes float {
 	0% {
 		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);

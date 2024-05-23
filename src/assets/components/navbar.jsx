@@ -16,9 +16,9 @@ const NavBar = () => {
         <li>
           <Link to="Home" spy={true} smooth={true} offset={0} duration={500} className='p-4'>Home</Link>
 
-          <Link to="aboutme" spy={true} smooth={true} offset={-90} duration={500} className='p-4'>Sobre mim</Link>
+          <Link to="aboutme" spy={true} smooth={true} offset={0} duration={500} className='p-4'>Sobre mim</Link>
 
-          <Link to="habilidades" spy={true} smooth={true} offset={-40} duration={500} className='p-4'>Habilidades</Link>
+          <Link to="habilidades" spy={true} smooth={true} offset={30} duration={500} className='p-4'>Habilidades</Link>
 
           <Link to="projetos" spy={true} smooth={true} offset={50} duration={500} className='p-4'>Projetos</Link>
 

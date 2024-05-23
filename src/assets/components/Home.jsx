@@ -4,7 +4,7 @@ import Links from "./Links";
 function Home() {
     return (
         <div className="flex text place-items-center align-middle justify-between px-5 mx-0 my-20 xl:mx-40  flex-col 2xl:flex-row 2xl:px-20 ">
-            <div className="justify-center flex z-[-1]">
+            <div className="justify-center flex z-[1]">
                 <img className="perfil rounded-full border-2 justify-center mb-8 w-96 h-96 2xl:w-[30vw] 2xl:h-full " src={foto} alt="image description" />
             </div>
             <div className="text-white">
