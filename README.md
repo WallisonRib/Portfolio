@@ -1,1 +1,16 @@
-# Portifólio v 1.0
+#Portifólio
+##Atualizado em 23/05/2024
+
+##Tecnologias
+- Javascript
+- React
+- Tailwind
+- Flowbite
+- Flowbite
+
+##Visual
+    Visual intencionalmente baseado no minimalismo, focando na experiência do usuário, visando a fácil localização e leitura dinamica dos dados dispostos.
+
+
+
+
