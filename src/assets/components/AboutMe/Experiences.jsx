@@ -1,5 +1,5 @@
-import logo_unimontes from "../images/logo_unimontes.jpg"
-import logo_PRP from "../images/PRP.jpg"
+import logo_unimontes from "../../images/logo_unimontes.jpg"
+import logo_PRP from "../../images/PRP.jpg"
 
 function Experiencies() {
     return ( 

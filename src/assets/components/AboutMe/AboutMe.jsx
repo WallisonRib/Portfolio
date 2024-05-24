@@ -1,5 +1,5 @@
-import Timeline from "../TimeLine";
-import Experiencies from "../Experiences";
+import Timeline from "./TimeLine";
+import Experiencies from "./Experiences";
 
 
 function AboutMe() {

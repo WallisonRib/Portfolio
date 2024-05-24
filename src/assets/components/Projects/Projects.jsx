@@ -1,7 +1,7 @@
 import Card from "./Card";
-import foto_ml from "../images/preview_clone_ml.png"
-import foto_cep from "../images/preview_buscadordecep.png"
-import foto_auth from "../images/preview_php_auth.png"
+import foto_ml from "../../images/preview_clone_ml.png"
+import foto_cep from "../../images/preview_buscadordecep.png"
+import foto_auth from "../../images/preview_php_auth.png"
 
 function Projects() {
     return (

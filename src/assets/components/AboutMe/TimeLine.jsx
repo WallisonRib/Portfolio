@@ -1,5 +1,6 @@
-import logo_if from "../images/logo_ifnmg.jpg"
-import logo_unimontes from "../images/logo_unimontes.jpg"
+import logo_if from "../../images/logo_ifnmg.jpg"
+import logo_unimontes from "../../images/logo_unimontes.jpg"
+
 function Timeline() {
     return (
 

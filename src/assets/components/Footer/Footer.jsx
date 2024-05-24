@@ -1,4 +1,4 @@
-import Links from "./Links";
+import Links from "../Home/Links";
 
 function Footer() {
     return (
