@@ -21,7 +21,7 @@ function AboutMe() {
                         Minhas habilidades em desenvolvimento incluem domínio de linguagens como React, Node, JavaScript, SQL e conhecimento básico em PHP e Laravel, tornando-me um desenvolvedor full stack. Minha formação inclui um diploma em Técnico em Informática pelo Instituto Federal do Norte de Minas Gerais (IFNMG), e atualmente estou cursando Sistemas de Informação na Unimontes.
                     </p>
                     <p class="text-lg font-medium">
-                        Eu adoro trabalhar em equipe e estou entusiasmado para colaborar em projetos que me permitam crescer e aprender. Estou em busca de uma oportunidade de estágio em áreas da tecnologia para me inserir no mercado de trabalho e aplicar minhas habilidades em um ambiente profissionale muita vontade de aprender.
+                        Eu adoro trabalhar em equipe e estou entusiasmado para colaborar em projetos que me permitam crescer e aprender. Estou em busca de uma oportunidade de estágio em áreas da tecnologia para me inserir no mercado de trabalho e aplicar minhas habilidades em um ambiente profissional, sempre com muita vontade de aprender e evoluir!
                     </p>
 
                 </blockquote>
