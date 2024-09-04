@@ -13,7 +13,7 @@ function Experiencies() {
         </div>
 
         <a href="https://unimontes.br/unidades/ccbs/defd/"  target="blank"class=" flex items-center border rounded-lg shadow flex-row  md:max-w-xl border-gray-700 bg-black hover:bg-[] mb-10 2xl:m-0">
-            <img class="object-cover rounded-t-lg w-36 rounded-none rounded-s-lg 2xl:w-48 " src={logo_cead} alt="" />
+            <img class="object-cover rounded-t-lg w-56 rounded-none rounded-s-lg 2xl:w-48  " src={logo_cead} alt="" />
             <div class="flex flex-col justify-between leading-normal">
 
                 <h5 class="text-2xl font-bold tracking-tight text-white m-2">Estágio no Centro de Educação a Distância</h5>
@@ -26,23 +26,24 @@ function Experiencies() {
 
         
         <a href="https://unimontes.br/edital/edital-proinic-prp-06-2023/" target="blank" class="space-x-4  flex items-center border rounded-lg shadow flex-row md:max-w-xl border-gray-700 bg-black hover:bg-[]">
-            <img class="object-cover rounded-t-lg w-36 rounded-none rounded-s-lg 2xl:w-48" src={logo_PRP} alt="" />
+            <img class="object-cover rounded-t-lg w-56 rounded-none rounded-s-lg 2xl:w-48" src={logo_PRP} alt="" />
             <div class="flex flex-col justify-between leading-normal">
 
                 <h5 class="text-2xl font-bold tracking-tight text-white m-2">Iniciação Científica Voluntária</h5>
-                <h6>Iniciação voltada a analise de dados </h6>
+                <p class="mb-3 font-normal m-2">Iniciação voltada a analise de dados, analsiando a UserXperience dos estudantes da Universidade Estadual de Montes Claros no contexto da UaB. </p>
                 <p class="mb-3 font-normal text-gray-200 m-2">mar 2024 - o momento</p>
-            
+
             </div>
         </a>
 
             
-        <a href="https://unimontes.br/unidades/ccbs/defd/"  target="blank"class=" flex items-center border rounded-lg shadow flex-row  md:max-w-xl border-gray-700 bg-black hover:bg-[] mb-10 2xl:m-0">
-            <img class="object-cover rounded-t-lg w-36 rounded-none rounded-s-lg 2xl:w-48" src={logo_unimontes} alt="" />
+        <a href="https://unimontes.br/unidades/ccbs/defd/"  target="blank"class=" space-x-4 flex items-center border rounded-lg shadow flex-row  md:max-w-xl border-gray-700 bg-black hover:bg-[] mb-10 2xl:m-0">
+            <img class="object-cover rounded-t-lg w-56 rounded-none rounded-s-lg 2xl:w-48" src={logo_unimontes} alt="" />
             <div class="flex flex-col justify-between leading-normal">
 
                 <h5 class="text-2xl font-bold tracking-tight text-white m-2">Estágio na Coordenação de Educação Fisica</h5>
-                <p class="mb-3 font-normal text-gray-200 m-2">fev 2024 - o momento</p>
+                <p class="mb-3 font-normal m-2"> Estágio Administrativo, prestando aopio a Coordenação de Curso dos cursos de Educação Fisica Bacharelado e Licenciatura.</p>
+                <p class="mb-3 font-normal text-gray-200 m-2">fev 2024 - maio 2024</p>
             
             </div>
         </a>
