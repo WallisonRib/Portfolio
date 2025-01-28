@@ -14,6 +14,22 @@ function Experiencies() {
 
             <ol class="relative border-s border-gray-200">
 
+
+            <li class="mb-10 ms-4 flex items-start space-x-6">
+                    <div class="relative">
+                        <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                    </div>
+                    <div>
+                        <img class="object-cover w-24 h-24 rounded-2xl md:h-32 md:w-32" src={logo_cead} alt="Logo CEAD" />
+                    </div>
+                    <div>
+                        <time class="mb-1 text-sm font-normal leading-none text-gray-400">maio 2024 - o momento</time>
+                        <h3 class="text-lg font-semibold text-white">Estágio no Centro de Educação a Distância</h3>
+                        <p class="mb-4 text-base font-normal text-gray-200 max-w-3xl">Atuando no Departamento de Desenvolvimento de Tecnologias Educacionais (DTE), sou responsável pela criação e manutenção de sistemas usados no cotidiano de toda a operação do Ensino a Distância da Unimontes. Este estágio envolve a análise de necessidades, desenvolvimento de novos recursos e a otimização de ferramentas existentes para melhorar a experiência de ensino e aprendizagem.</p>
+                    </div>
+                </li>
+
+                
                 <li class="mb-10 ms-4 flex items-start space-x-6">
                     <div class="relative">
                         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
@@ -28,19 +44,7 @@ function Experiencies() {
                     </div>
                 </li>
 
-                <li class="mb-10 ms-4 flex items-start space-x-6">
-                    <div class="relative">
-                        <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    </div>
-                    <div>
-                        <img class="object-cover w-24 h-24 rounded-2xl md:h-32 md:w-32" src={logo_cead} alt="Logo CEAD" />
-                    </div>
-                    <div>
-                        <time class="mb-1 text-sm font-normal leading-none text-gray-400">maio 2024 - o momento</time>
-                        <h3 class="text-lg font-semibold text-white">Estágio no Centro de Educação a Distância</h3>
-                        <p class="mb-4 text-base font-normal text-gray-200 max-w-3xl">Atuando no Departamento de Desenvolvimento de Tecnologias Educacionais (DTE), sou responsável pela criação e manutenção de sistemas usados no cotidiano de toda a operação do Ensino a Distância da Unimontes. Este estágio envolve a análise de necessidades, desenvolvimento de novos recursos e a otimização de ferramentas existentes para melhorar a experiência de ensino e aprendizagem.</p>
-                    </div>
-                </li>
+            
 
                 <li class="ms-4 flex items-start space-x-6">
                     <div class="relative">
