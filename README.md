@@ -1,11 +1,9 @@
 # Portifólio
-## Atualizado em 23/05/2024
-
+## Atualizado em jan/2025
 ## Tecnologias
 - Javascript
 - React
 - Tailwind
-- Flowbite
 - Flowbite
 
 ## Visual
