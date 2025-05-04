@@ -5,6 +5,8 @@ import Home from "./assets/components/Home/Home";
 import Projects from "./assets/components/Projects/Projects";
 import Footer from "./assets/components/Footer/Footer";
 import Navbar  from "./assets/components/NavBar/navbar"
+import Exp from "./assets/components/AboutMe/Exp";
+
 
 import ParticlesComponent from "./assets/components/tsparticles";
 
@@ -16,15 +18,11 @@ function App() {
       <Navbar />
       <Home />
       <AboutMe />
+      <Exp/>
       <Skills />
       <Projects />
       <Footer />
-
-
     </>
-
-
-
   );
 }
 

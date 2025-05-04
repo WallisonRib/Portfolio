@@ -18,7 +18,7 @@ import { FiFigma } from 'react-icons/fi'
 
 function Skills() {
     return (
-        <section id="habilidades" className="h-full bg-[black] p-8 text-white ">
+        <section id="habilidades" className="h-full bg-neutral-950 p-8 text-white ">
 
             <h1 className="font-bold text-3xl md:text-4xl flex py-10 2xl:justify-center">Habilidades</h1>
 
@@ -168,18 +168,11 @@ function Skills() {
                                 <p>Wordpress</p>
                             </div>
                         </div>
-
-
-
                     </div>
 
                 </div>
 
             </div>
-
-
-
-
         </section>
     );
 }
